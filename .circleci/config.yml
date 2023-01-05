@@ -69,7 +69,7 @@ workflows:
             - build
       - deploy:
           requires:
-            - est
+            - test
           filters:
             branches:
               only: main
