@@ -1,4 +1,4 @@
-FROM ruby:2.7
+FROM ruby:2.7.7
 
 ENV RAILS_ENV=production
 
