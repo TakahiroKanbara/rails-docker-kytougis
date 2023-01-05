@@ -74,4 +74,4 @@ workflows:
             - est
           filters:
             branches:
-              only:main
+              only: main
